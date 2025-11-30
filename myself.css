@@ -1,0 +1,99 @@
+.judul{
+    font-family:'poppins',sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.966);
+    background-color: rgba(0, 0, 1, 0);
+    padding:15px;
+    color:white;
+}
+body{
+    background-image:url(../images/picture-1247354.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100vh;
+}
+
+.biodatautama{
+    background-color:rgba(0, 0, 0, 0.178);
+    
+    border-radius: 15px;;
+       background: rgba(0, 43, 233, 0.08);           
+    border: 1px solid rgb(1, 2, 43);    
+    box-shadow: 0 8px 32px rgba(32, 44, 211, 0.507);  
+    backdrop-filter: blur(3px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    margin-bottom:20px
+}
+
+.biodatautama ul{
+    font-family: sans-serif;
+    color:white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.966);
+    font-size: 20px;
+}
+.biodatautama li{
+    color:white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.966);
+    font-family: sans-serif;
+    font-size: 20px;
+    list-style: circle;
+    
+}
+
+.biodatatambahan{
+          background: rgba(0, 43, 233, 0.08);           
+    border: 1px solid rgb(1, 2, 43);    
+    box-shadow: 0 8px 32px rgba(32, 44, 211, 0.507);  
+    backdrop-filter: blur(3px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    border-radius:15px;
+    margin-bottom:20px
+}
+
+.biodatatambahan ul{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.966);
+    color:white;
+    list-style: circle;
+}
+
+.kontak{
+          background: rgba(0, 43, 233, 0.08);           
+    border: 1px solid rgb(1, 2, 43);    
+    box-shadow: 0 8px 32px rgba(32, 44, 211, 0.507);  
+    backdrop-filter: blur(3px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    border-radius:15px;
+}
+
+.kontak ul{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.966);
+    color:white;
+    font-size: 20px;
+    font-family: sans-serif;
+    list-style: circle;
+
+}
+
+.kontak button[name="tombolig"]{
+    width:80px;
+    height:80px;
+    background-image: url(../images/igicon.jpg);
+    background-size: 90px;
+    background-position:center;
+    border-radius:20px;
+    position:flex;
+    margin-top:13px
+}
+
+.kontak button[name="tt"]{
+    height: 80px;
+    width:80px;
+    background-image:url(../images/icontiktok.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:90px;
+    border-radius:20px;
+}
