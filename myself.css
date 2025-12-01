@@ -6,7 +6,7 @@
     color:white;
 }
 body{
-    background-image:url(/images/picture-1247354.jpg);
+    background-image:url(images/picture-1247354.jpg);
     background-size:cover;
     background-attachment:fixed;
     background-repeat: no-repeat;
@@ -91,10 +91,11 @@ body{
 .kontak button[name="tt"]{
     height: 80px;
     width:80px;
-    background-image:url(/images/icontiktok.png);
+    background-image:url(../images/icontiktok.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:90px;
     border-radius:20px;
 
 }
+
